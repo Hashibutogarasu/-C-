@@ -1,0 +1,16 @@
+C:\Users\crow\source\repos\PythonLauncher\PythonLauncher\bin\Debug\netcoreapp3.1\PythonLauncher.exe
+C:\Users\crow\source\repos\PythonLauncher\PythonLauncher\bin\Debug\netcoreapp3.1\PythonLauncher.deps.json
+C:\Users\crow\source\repos\PythonLauncher\PythonLauncher\bin\Debug\netcoreapp3.1\PythonLauncher.runtimeconfig.json
+C:\Users\crow\source\repos\PythonLauncher\PythonLauncher\bin\Debug\netcoreapp3.1\PythonLauncher.runtimeconfig.dev.json
+C:\Users\crow\source\repos\PythonLauncher\PythonLauncher\bin\Debug\netcoreapp3.1\PythonLauncher.dll
+C:\Users\crow\source\repos\PythonLauncher\PythonLauncher\bin\Debug\netcoreapp3.1\PythonLauncher.pdb
+C:\Users\crow\source\repos\PythonLauncher\PythonLauncher\obj\Debug\netcoreapp3.1\PythonLauncher.csproj.AssemblyReference.cache
+C:\Users\crow\source\repos\PythonLauncher\PythonLauncher\obj\Debug\netcoreapp3.1\PythonLauncher.Form1.resources
+C:\Users\crow\source\repos\PythonLauncher\PythonLauncher\obj\Debug\netcoreapp3.1\PythonLauncher.csproj.GenerateResource.cache
+C:\Users\crow\source\repos\PythonLauncher\PythonLauncher\obj\Debug\netcoreapp3.1\PythonLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crow\source\repos\PythonLauncher\PythonLauncher\obj\Debug\netcoreapp3.1\PythonLauncher.AssemblyInfoInputs.cache
+C:\Users\crow\source\repos\PythonLauncher\PythonLauncher\obj\Debug\netcoreapp3.1\PythonLauncher.AssemblyInfo.cs
+C:\Users\crow\source\repos\PythonLauncher\PythonLauncher\obj\Debug\netcoreapp3.1\PythonLauncher.csproj.CoreCompileInputs.cache
+C:\Users\crow\source\repos\PythonLauncher\PythonLauncher\obj\Debug\netcoreapp3.1\PythonLauncher.dll
+C:\Users\crow\source\repos\PythonLauncher\PythonLauncher\obj\Debug\netcoreapp3.1\PythonLauncher.pdb
+C:\Users\crow\source\repos\PythonLauncher\PythonLauncher\obj\Debug\netcoreapp3.1\PythonLauncher.genruntimeconfig.cache
